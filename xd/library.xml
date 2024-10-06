@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<library>
+    <book>
+        <title>Effective Go</title>
+        <author>Robert Griesemer</author>
+        <year>2021</year>
+        <isbn>978-0-12345-678-9</isbn>
+        <sales>12000</sales>
+        <rating>4.5</rating>
+    </book>
+    <book>
+        <title>The Go Programming Language</title>
+        <author>Alan Donovan</author>
+        <year>2015</year>
+        <isbn>978-0-98765-432-1</isbn>
+        <sales>25000</sales>
+        <rating>4.8</rating>
+    </book>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <isbn>978-0-13-235088-4</isbn>
+        <sales>50000</sales>
+        <rating>4.9</rating>
+    </book>
+    <book>
+        <title>Code Complete</title>
+        <author>Steve McConnell</author>
+        <year>2004</year>
+        <isbn>978-0-7356-1967-8</isbn>
+        <sales>30000</sales>
+        <rating>4.7</rating>
+    </book>
+    <book>
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <year>1999</year>
+        <isbn>978-0-201-48567-7</isbn>
+        <sales>15000</sales>
+        <rating>4.6</rating>
+    </book>
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt, David Thomas</author>
+        <year>1999</year>
+        <isbn>978-0-201-61622-4</isbn>
+        <sales>18000</sales>
+        <rating>4.8</rating>
+    </book>
+    <book>
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <year>2009</year>
+        <isbn>978-0-262-03384-8</isbn>
+        <sales>70000</sales>
+        <rating>4.5</rating>
+    </book>
+    <book>
+        <title>Design Patterns</title>
+        <author>Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides</author>
+        <year>1994</year>
+        <isbn>978-0-201-63361-0</isbn>
+        <sales>35000</sales>
+        <rating>4.6</rating>
+    </book>
+    <book>
+        <title>JavaScript: The Good Parts</title>
+        <author>Douglas Crockford</author>
+        <year>2008</year>
+        <isbn>978-0-596-51774-8</isbn>
+        <sales>22000</sales>
+        <rating>4.4</rating>
+    </book>
+    <book>
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <year>2015</year>
+        <isbn>978-1-59327-603-4</isbn>
+        <sales>27000</sales>
+        <rating>4.7</rating>
+    </book>
+    <book>
+        <title>Head First Design Patterns</title>
+        <author>Eric Freeman, Elisabeth Robson</author>
+        <year>2004</year>
+        <isbn>978-0-596-00712-6</isbn>
+        <sales>23000</sales>
+        <rating>4.8</rating>
+    </book>
+    <book>
+        <title>The Art of Computer Programming</title>
+        <author>Donald E. Knuth</author>
+        <year>1968</year>
+        <isbn>978-0-201-89683-0</isbn>
+        <sales>60000</sales>
+        <rating>4.9</rating>
+    </book>
+    <book>
+        <title>You Don’t Know JS</title>
+        <author>Kyle Simpson</author>
+        <year>2014</year>
+        <isbn>978-1-491-90346-9</isbn>
+        <sales>21000</sales>
+        <rating>4.5</rating>
+    </book>
+    <book>
+        <title>Eloquent JavaScript</title>
+        <author>Marijn Haverbeke</author>
+        <year>2011</year>
+        <isbn>978-1-59327-584-6</isbn>
+        <sales>25000</sales>
+        <rating>4.7</rating>
+    </book>
+    <book>
+        <title>Learning Python</title>
+        <author>Mark Lutz</author>
+        <year>2013</year>
+        <isbn>978-0-596-15806-4</isbn>
+        <sales>34000</sales>
+        <rating>4.6</rating>
+    </book>
+    <book>
+        <title>The Mythical Man-Month</title>
+        <author>Frederick P. Brooks Jr.</author>
+        <year>1975</year>
+        <isbn>978-0-201-83595-2</isbn>
+        <sales>18000</sales>
+        <rating>4.8</rating>
+    </book>
+    <book>
+        <title>Structure and Interpretation of Computer Programs</title>
+        <author>Harold Abelson, Gerald Jay Sussman</author>
+        <year>1996</year>
+        <isbn>978-0-262-51087-5</isbn>
+        <sales>17000</sales>
+        <rating>4.7</rating>
+    </book>
+</library>
